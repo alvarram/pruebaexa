@@ -15,9 +15,11 @@ public class Exa {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+       
         // TODO code application logic here
-        
-        System.out.println("Buenas tardes xd");
+        int suma=0;
+        for(int i =0,i<10;i++){
+        System.out.println("Buenas tardes xd"+ suma+);
     }
-    
+    }
 }
